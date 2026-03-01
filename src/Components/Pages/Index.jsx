@@ -83,6 +83,7 @@ function Index() {
 
     return (
         <>
+        <h1>Ibrahim</h1>
             {/* Hero BG video  */}
             <div className="video-bg">
                 <video muted autoPlay loop playsInline>
